@@ -47,3 +47,7 @@ my_git_readme
 
 ====================
 это копия
+
+
+6. Pretty log
+	git config alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"

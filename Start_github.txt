@@ -51,3 +51,7 @@ my_git_readme
 
 5. сделать локальную копию репозитория
 	git clone https://github.com/<username>/<repo_name>.git [<dirname>]
+
+6. Pretty log
+
+	git config alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"
